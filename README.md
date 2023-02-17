@@ -1,2 +1,2 @@
-# tmp__Git-workout
+# Git command processing
 my training place 
